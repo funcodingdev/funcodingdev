@@ -9,4 +9,4 @@ funcodingdev/funcodingdev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Profile views](https://gpvc.arturio.dev/funcodingdev)
+![funcodingdev's github stats](https://github-readme-stats.vercel.app/api?username=funcodingdev&show_icons=true)
