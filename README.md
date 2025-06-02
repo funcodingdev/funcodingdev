@@ -25,6 +25,7 @@
 ## 📬 联系我
 
 - 公众号：FunCoding
+  ![微信公众号](https://github.com/funcodingdev/funcodingdev/raw/main/wechat_qrcode.png)
 - 个人博客：[funcoding.cn](https://funcoding.cn)
 
 ---
