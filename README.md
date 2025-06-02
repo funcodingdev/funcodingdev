@@ -1,13 +1,46 @@
-<h1 align="center">Hi 👋, I'm funcodingdev</h1>
-<h3 align="center">除了代码，还有诗和远方。</h3>
+# 👋 Hi，我是 funcodingdev！
 
-<!---
-funcodingdev/funcodingdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 除了代码，还有诗和远方。
 
-![funcodingdev's github stats](https://github-readme-stats.vercel.app/api?username=funcodingdev&show_icons=true)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funcodingdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧑‍💻 关于我
 
-<a href=#><img src="contributions.svg"></a>
+- Android 开发工程师
+- 擅长 Kotlin & Java
+- 喜欢用代码实现脑洞，偶尔也debug生活
+
+---
+
+## 🚀 技能清单
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+> 代码写得飞起，Bug修得优雅——相信我，真的！
+
+---
+
+## 📬 联系我
+
+- 公众号：FunCoding
+- 个人博客：[funcoding.cn](https://funcoding.cn)
+
+---
+
+## 👀 你可能不知道的我
+
+- 没有最自豪的项目，只想让生活变成我的开源仓库
+- 喜欢尝试各种新新事物
+- 我喜欢玩各种各样的游戏，但是只有三分钟热度
+
+---
+
+## 🏄‍♂️ 一句废话
+
+> 没有 Bug 的世界，如同没有彩蛋的游戏——有点无聊。
+
+---
+
+![fun](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=150&section=footer&text=Happy%20Coding!&fontAlign=70&fontAlignY=40&fontSize=35)
