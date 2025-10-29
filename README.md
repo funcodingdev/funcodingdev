@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-> 代码写得飞起，Bug修得优雅——相信我，真的！
+> 代码写得飞起，Bug修得优雅
 
 ---
 
