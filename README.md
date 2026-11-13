@@ -11,14 +11,6 @@
 
 ---
 
-## 📬 联系我
-
-- 公众号：FunCoding
-
-![微信公众号](https://github.com/funcodingdev/funcodingdev/raw/main/wechat_qrcode.jpg)
-
----
-
 ## 🏄‍♂️ 一句废话
 
 > 没有 Bug 的世界，如同没有彩蛋的游戏——有点无聊。
